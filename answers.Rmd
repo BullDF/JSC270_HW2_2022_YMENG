@@ -2,6 +2,7 @@
 output: pdf_document
 ---
 
+# [Click Here to GitHub Repository](https://github.com/BullDF/JSC270_HW2_2022_YMENG)
 
 # Part II - Data Analysis
 
